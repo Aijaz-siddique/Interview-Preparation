@@ -2,6 +2,7 @@
 2. Explain how to do synchronous call using RestTemplate and WebClient in SpringBoot application.
 3. Internal working of @SpringBootApplication.
 4. Architecture of Spring Batch.
+5. Working with LocalDate in java.
 
 
 
