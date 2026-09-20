@@ -14,3 +14,4 @@
 1. How do you deploy a Spring Boot microservice to Kubernetes on EKS?
 2. How do you handle secrets in production?
 3. Design a highly available architecture for a Spring Boot + Kafka app on AWS.
+4. Deployment Strategies
